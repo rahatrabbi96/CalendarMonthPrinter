@@ -12,6 +12,7 @@ public class Calender {
 // we connected all other method inside printCalender.
     public void printCalender(){
         // Scanner
+        System.out.println("Rahat");
 
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the Calender Month(1-12): ");
